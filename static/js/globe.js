@@ -71,7 +71,7 @@ DAT.Globe = function(container, colorFn) {
 
   var overRenderer;
 
-  var imgDir = '/github_globe/static/img/';
+  var imgDir = '/globe/static/img/';
 
   var curZoomSpeed = 0;
   var zoomSpeed = 50;
